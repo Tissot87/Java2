@@ -17,7 +17,7 @@ public class Test {
         human.jumpHuman();
         robot.jumpRobot();
 
-        human.wallExam();
+       
 
     }
 }
